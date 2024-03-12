@@ -1,2 +1,5 @@
 # tutorial_git_maca
-ejemplo de pai clase 1
+
+objetivos
+1.aprender a usar git
+2.aprender a usar girhub
